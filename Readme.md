@@ -47,4 +47,22 @@ What we mean by a graphic representation using ASCII, is to write the string rec
     Choose: A
     Not present in the word, 9 attempts remaining
 
+     _               
+    | |                
+    | |__     ___                     ___
+    |  _ \   / _ \                   / _ \
+    | | | | |  __/                  | (_) |
+    |_| |_|  \___|                   \___/
+    ███████ ███████ ███████ ███████ ███████          =========
     
+    Choose: L
+    
+     _              _   _
+    | |            | | | |
+    | |__     ___  | | | |   ___
+    |  _ \   / _ \ | | | |  / _ \
+    | | | | |  __/ | | | | | (_) |
+    |_| |_|  \___| |_| |_|  \___/
+    ███████ ██████ ███ ███ ███████                   =========
+    
+    Congrats !
