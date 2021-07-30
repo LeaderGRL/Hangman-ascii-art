@@ -23,7 +23,7 @@ What we mean by a graphic representation using ASCII, is to write the string rec
 
 ### Usage
 
-    go run . words.txt
+    go run . words.txt standard.txt
     
     Good luck you have 10 attempts !
      _                        
@@ -53,7 +53,14 @@ What we mean by a graphic representation using ASCII, is to write the string rec
     |  _ \   / _ \                   / _ \
     | | | | |  __/                  | (_) |
     |_| |_|  \___|                   \___/
-    ███████ ███████ ███████ ███████ ███████          =========
+    ███████ ███████ ███████ ███████ ███████          
+    
+    
+    
+    
+    
+    
+    =========
     
     Choose: L
     
@@ -63,7 +70,14 @@ What we mean by a graphic representation using ASCII, is to write the string rec
     |  _ \   / _ \  | | | |  / _ \
     | | | | |  __/  | | | | | (_) |
     |_| |_|  \___|  |_| |_|  \___/
-    ███████ ███████ ███ ███ ███████                  =========
+    ███████ ███████ ███ ███ ███████                  
+    
+    
+    
+    
+    
+    
+    =========
     
     Congrats !
 
