@@ -7,11 +7,11 @@ In Hangman ASCII-Art, you can add the following things:
 * Letters must be display in ASCII-Art
 Here, an exemple of what you can do:
 
-██   ██ ███████ ██      ██       ██████      ██ 
-██   ██ ██      ██      ██      ██    ██     ██ 
-███████ █████   ██      ██      ██    ██     ██ 
-██   ██ ██      ██      ██      ██    ██        
-██   ██ ███████ ███████ ███████  ██████      ██ 
+██   ██ ███████ ██      ██       ██████      ██
+██   ██ ██      ██      ██      ██    ██     ██
+███████ █████   ██      ██      ██    ██     ██
+██   ██ ██      ██      ██      ██    ██
+██   ██ ███████ ███████ ███████  ██████      ██
 
 ## Allowed packages
 * Only the [Standard Go](https://pkg.go.dev/std) packages are allowed.
