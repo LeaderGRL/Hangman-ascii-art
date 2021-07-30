@@ -5,6 +5,7 @@
 You must follow the same [principle](https://github.com/Lyon-Ynov-Campus/YTrack/tree/master/subjects/hangman/hangman-classic) as the first subject.*
 In Hangman ASCII-Art, you can add the following things:
 * Letters must be display in ASCII-Art
+* 
 Here, an exemple of what you can do:
 
 ██   ██ ███████ ██      ██       ██████      ██
