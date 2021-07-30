@@ -68,6 +68,5 @@ What we mean by a graphic representation using ASCII, is to write the string rec
     Congrats !
 
 This project will help you learn about :
-
-The Go file system(fs) API
-Data manipulation
+- The Go file system(fs) API
+- Data manipulation
