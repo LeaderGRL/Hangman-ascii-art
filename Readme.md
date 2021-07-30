@@ -8,11 +8,11 @@ In Hangman ASCII-Art, you can add the following things:
 
 Here, an exemple of what you can do:
 
--██   ██ ███████ ██      ██       ██████      ██
--██   ██ ██      ██      ██      ██    ██     ██ 
--███████ █████   ██      ██      ██    ██     ██ 
--██   ██ ██      ██      ██      ██    ██        
--██   ██ ███████ ███████ ███████  ██████      ██             
+- ██   ██ ███████ ██      ██       ██████      ██
+- ██   ██ ██      ██      ██      ██    ██     ██ 
+- ███████ █████   ██      ██      ██    ██     ██ 
+- ██   ██ ██      ██      ██      ██    ██        
+- ██   ██ ███████ ███████ ███████  ██████      ██             
 
 ## Allowed packages
 * Only the [Standard Go](https://pkg.go.dev/std) packages are allowed.
