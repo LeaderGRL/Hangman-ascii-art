@@ -20,3 +20,31 @@ What we mean by a graphic representation using ASCII, is to write the string rec
 
 ## Allowed packages
 * Only the [Standard Go](https://pkg.go.dev/std) packages are allowed.
+
+### Usage
+
+    go run . words.txt
+    
+    Good luck you have 10 attempts !
+     _                        
+    | |                    
+    | |__                             ___
+    |  _ \                           / _ \
+    | | | |                         | (_) |
+    |_| |_|                          \___/
+    ███████ ███████ ███████ ███████ ███████
+    
+    Choose: E
+    
+     _               
+    | |                
+    | |__     ___                     ___
+    |  _ \   / _ \                   / _ \
+    | | | | |  __/                  | (_) |
+    |_| |_|  \___|                   \___/
+    ███████ ███████ ███████ ███████ ███████
+    
+    Choose: A
+    Not present in the word, 9 attempts remaining
+
+    
