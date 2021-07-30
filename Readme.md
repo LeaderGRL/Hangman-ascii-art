@@ -14,8 +14,9 @@ What we mean by a graphic representation using ASCII, is to write the string rec
                                                 
 ## Instructions
 * Your project must be written in Go.
-* This project should handle an input with numbers, letters, spaces and special characters.
 * This project should display letters in ASCII-Art from thos [following files](https://github.com/LeaderGRL/Hangman-ascii-art/tree/main/letters)
+    * You need to parse the file
+    * You need to pass the file in argument
 * The code must respect the [good practices](https://public.01-edu.org/subjects/good-practices/).
 
 ## Allowed packages
